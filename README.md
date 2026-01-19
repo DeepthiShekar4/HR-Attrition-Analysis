@@ -1,4 +1,5 @@
 # HR-Attrition-Analysis
+![HR Attrition Analysis Dashboard(dashboard.png)
 Interactive HR Attrition Analysis Dashboard built using Tableau to analyze employee attrition trends and key HR metrics.
 
 # HR Attrition Analysis Dashboard (Tableau)
